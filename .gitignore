@@ -1,0 +1,13 @@
+# files for testing are going to be here
+figures/
+
+# vscode config files
+.vscode/
+
+# do not save the executable file
+
+## if in windows
+main.exe
+
+## if in linux
+main
