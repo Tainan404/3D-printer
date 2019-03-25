@@ -37,5 +37,5 @@ Under development.
 <p>Júlia Peters 😍</p>
 <p>Leandro Ribeiro 🧐</p>
 <p>Murilo 😅</p>
-<p>Thainan 😎</p>
-<p>Thais 🤗</p>
+<p>Tainan 😎</p>
+<p>Tais 🤗</p>
